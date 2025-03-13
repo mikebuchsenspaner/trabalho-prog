@@ -1,18 +1,3 @@
-# Instruções
-- Faça uma cópia deste arquivo .md para um repositório próprio
-- Resolva as 8 questões objetivas assinalando a alternativa correta e **justificando sua resposta.**
-- Resolva as 2 questões dissertativas escrevendo no próprio arquivo .md
-- Lembre-se de utilizar as estruturas de código como ``esta aqui com ` `` ou
-```javascript
-//esta aqui com ```
-let a = "olá"
-let b = 10
-print(a)
-```
-- Resolva as questões com uso do Visual Studio Code ou ambiente similar.
-- Teste seus códigos antes de trazer a resposta para cá.
-- Cuidado com o uso de ChatGPT (e similares), pois entregar algo só para ganhar nota não fará você aprender. Não seja dependente da máquina!
-- Ao final, publique seu arquivo lista_01.md com as respostas em seu repositório, e envie o link pela Adalove. 
 
 ## Questões Objetivas
 
